@@ -1,5 +1,5 @@
 # open-nlp-ner
-Open NLP Name Entity Recognition for Organization Names
+Open NLP Named Entity Recognition for Organization Names
 
 
 # Steps to run the application :
@@ -8,7 +8,7 @@ Open NLP Name Entity Recognition for Organization Names
 2. Open netbeans and open the project
 3. Do Maven Build with dependencies
 4. Right click, project root and click on run.
-5. Now, application is ready to server at http://localhost:2010/
+5. Now, application is ready to serve at http://localhost:2010/
 
 # API Calls :
 
